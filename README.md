@@ -34,5 +34,7 @@ Bonus
 
 ![](monte2.jpg)
 
+![](monte3.jpg)
+
 Yazan ve oynayan: https://twitter.com/hakanu_
 
