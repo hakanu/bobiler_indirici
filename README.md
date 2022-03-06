@@ -27,7 +27,7 @@ python3 monte_cek.py --monteci=educatedear
 
 Bonus
 
-![](monte1.jpg)
+![](monte2.jpg)
 
 Yazan ve oynayan: https://twitter.com/hakanu_
 
