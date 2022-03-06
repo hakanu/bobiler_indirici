@@ -21,6 +21,11 @@ pip3 install -r requests bs4
 python3 monte_cek.py --monteci=educatedear
 ```
 
+Ornek kullanim:
+
+![](educatedear.png)
+
+
 Şu da benim ana sayfa olan montelem:
 
 ![](monte1.jpg)
