@@ -23,18 +23,18 @@ python3 monte_cek.py --monteci=educatedear
 
 Ornek kullanim:
 
-![](educatedear.png)
+![](img/educatedear.png)
 
 
 Şu da benim ana sayfa olan montelem:
 
-![](monte1.jpg)
+![](img/monte1.jpg)
 
 Bonus
 
-![](monte2.jpg)
+![](img/monte2.jpg)
 
-![](monte3.jpg)
+![](img/monte3.jpg)
 
 Yazan ve oynayan: https://twitter.com/hakanu_
 
