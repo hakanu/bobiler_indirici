@@ -1,0 +1,12 @@
+html/
+media/
+__pycache__/
+
+# Sqlite related
+*.db
+*.db-shm
+*.db-wal
+
+# For debug.
+extracted_posts.json
+failed_to_parse.txt
